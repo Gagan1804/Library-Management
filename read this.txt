@@ -1,0 +1,3 @@
+connect your project to this library1.sql
+
+and for your ease..... open this library1.sql in mySQL Workbech software to view, edit it easily
